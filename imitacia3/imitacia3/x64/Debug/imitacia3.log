@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\фвьшт\source\repos\imitacia3\imitacia3\FileName.cpp(17,11): warning C4307: "*": переполнение целой константы со знаком
+C:\Users\фвьшт\source\repos\imitacia3\imitacia3\FileName.cpp(18,12): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  imitacia3.vcxproj -> C:\Users\фвьшт\source\repos\imitacia3\x64\Debug\imitacia3.exe
